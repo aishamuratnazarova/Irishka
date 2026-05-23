@@ -1,0 +1,6 @@
+{
+  "name": "С Днем Рождения!",
+  "description": "Эстетичный интерактивный вишлист-презент для любимой подруги с возможностью выбора подарков.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
